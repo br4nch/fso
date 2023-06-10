@@ -1,0 +1,1 @@
+Practice repository for Full Stack Open source course from [Full Stack Open](https://fullstackopen.com/en/)
